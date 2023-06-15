@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: sythuy2007/nginx:v0.1.2
+        image: sythuy2007/nginx:v0.1.3
         resources:
           limits:
             memory: "128Mi"
